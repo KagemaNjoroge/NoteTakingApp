@@ -1,5 +1,7 @@
 # Ignore virtual environment
 Timely/env/
+venv/
+
 
 # Ignore environment variables and secrets
 Timely/.env
